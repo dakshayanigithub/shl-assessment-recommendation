@@ -1,0 +1,4 @@
+Assessment Name,URL,Remote Testing,Adaptive/IRT,Duration,Test Type
+Cognitive Ability Test,https://www.shl.com/test1,Yes,Yes,30 min,Cognitive
+Java Developer Test,https://www.shl.com/test2,Yes,No,40 min,Technical
+Personality Test,https://www.shl.com/test3,Yes,Yes,25 min,Behavioral
