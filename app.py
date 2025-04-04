@@ -33,3 +33,4 @@ if st.button("Get Recommendations") and user_query:
     ]].reset_index(drop=True))
 
     st.success("Top recommendations based on your input shown above.")
+    print("Updates logic")
